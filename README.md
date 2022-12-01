@@ -15,11 +15,10 @@ Comprobamos en que posicion de la rama nos encontramos gracias al git log --onli
 Lo que hacemos en este paso es comprobar lo que hay escrito en nuestro readme en en este instante.
 ![imagen](https://user-images.githubusercontent.com/114684379/205110422-113c4e6e-4f12-435f-9c14-1145c0968857.png)
 
-En este paso lo que estamos haciendo es movernos por los commits gracias a los hashes, esto nos permite ver el contenido que hay en este momento
-
+En este paso lo que estamos haciendo es movernos por los commits gracias a los hashes, esto nos permite ver el contenido que hay en este momento ademas de esto vemos en donde estamos situados.
 ![imagen](https://user-images.githubusercontent.com/114684379/205110672-d495dd5f-9f68-482e-ac4e-c498a9ca33ec.png)
 
-
+Ahora lo que hacemos es volver a la rama main que es la principal.
 ![imagen](https://user-images.githubusercontent.com/114684379/205110865-bd17d613-c6bc-488c-ae60-6d282f964952.png)
 
 
