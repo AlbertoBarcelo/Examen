@@ -34,8 +34,11 @@ Ahora lo que hacemos es volver a la rama main que es la principal.
 
 ## Teoria
 
-*Working directory*: Es la carpeta donde se encuentran los archivos con los que estamos trabajando en nuestro equipo es de donde modificaremos los ficheros y donde iran a parar los cambios que hayan podido hacer algún compañero a nuestro codigo en nuestro repositorio git.
+#### Working directory:
+Es la carpeta donde se encuentran los archivos con los que estamos trabajando en nuestro equipo es de donde modificaremos los ficheros y donde iran a parar los cambios que hayan podido hacer algún compañero a nuestro codigo en nuestro repositorio git.
 
-*Staging area*: Es el area que esta entre nuestro almacenamiento interno del equipo y nuestro repositorio git, es decir aquí es donde se almacena nuestros archivos en el momento que los añadimos y antes de subirlos a nuestro repositorio git.
+#### Staging area: 
+Es el area que esta entre nuestro almacenamiento interno del equipo y nuestro repositorio git, es decir aquí es donde se almacena nuestros archivos en el momento que los añadimos y antes de subirlos a nuestro repositorio git.
 
-*Directorio git*: El directorio es donde se almacenan nuestros archivos una vez los subamos a nuestro github, una vez se encuentre aqui nuestro codigo podremos acceder a el desde cualquier lugar y compañeros nuestros podrán hacer mejoras y podremos trabajar en grupos de una manera muy dinamica.
+#### Directorio git: 
+El directorio es donde se almacenan nuestros archivos una vez los subamos a nuestro github, una vez se encuentre aqui nuestro codigo podremos acceder a el desde cualquier lugar y compañeros nuestros podrán hacer mejoras y podremos trabajar en grupos de una manera muy dinamica.
