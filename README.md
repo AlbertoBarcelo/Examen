@@ -24,7 +24,7 @@ Lo que hacemos en este paso es comprobar lo que hay escrito en nuestro readme en
 
 ![imagen](https://user-images.githubusercontent.com/114684379/205110422-113c4e6e-4f12-435f-9c14-1145c0968857.png)
 
-En este paso lo que estamos haciendo es movernos por los commits gracias a los hashes, esto nos permite ver el contenido que hay en este momento ademas de esto vemos en donde estamos situados.
+En este paso lo que estamos haciendo es movernos por los commits gracias a los hashes, esto nos permite ver el contenido que hay en este momento ademas de esto vemos en donde estamos situados, en este caso no podemos comprobar el contenido der readme ya que en ese preciso instante no estaba creado el readme.
 
 ![imagen](https://user-images.githubusercontent.com/114684379/205110672-d495dd5f-9f68-482e-ac4e-c498a9ca33ec.png)
 
